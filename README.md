@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi 👋, I'm Nikesh Patel  
 
-<!--
-**Nikeshh01/Nikeshh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student | ☕ Java Developer | 🌐 Backend & Web Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🎓 Final Year **B.Tech (CSE)** Student  
+- ☕ Strong interest in **Java & Backend Development**  
+- 🌱 Currently learning **Spring Boot, MySQL & DevOps basics**  
+- 💡 Love building **real-world projects** and learning by doing  
+- 🎯 Goal: Become a **Skilled Java Backend Engineer**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Programming Languages  
+- Java  
+- Java Script  
+- SQL  
+
+### 🌐 Backend & Frameworks  
+- Spring Boot  
+- JDBC  
+- Hibernate (Basics)  
+
+### 🗄️ Database  
+- MySQL  
+
+### ⚙️ Tools & Platforms  
+- Git & GitHub  
+- Maven  
+- IntelliJ IDEA Ultimate / Eclipse / STS  
+- VS Code  
+
+---
+
+## 📂 Projects  
+
+🔹 **Resume Builder App (Java)**  
+- Java-based application to generate resumes  
+- Uses OOP concepts & file handling  
+
+🔹 **Live Chat Application (Spring Boot)**  
+- Real-time chat app  
+- Messages stored securely in MySQL  
+
+🔹 **Electricity Billing System**  
+- Worked on java Swing  
+
+*(More projects coming soon 🚧)*  
+
+---
+
+## 📈 Currently Working On  
+
+- Improving **DSA with Java**  
+- Advanced **Spring Boot concepts**  
+- Writing clean & optimized backend code
+- Working on Java Full Stack Development 
+
+---
+
+## 🤝 Connect With Me  
+
+- GitHub: [https://github.com/Nikeshh01](https://github.com/Nikeshh01)  
+- LinkedIn: *(Add your LinkedIn link here)*  
+
+---
+
+## ⭐ Fun Fact  
+
+> "Code likhne me error aaye to samjho seekhne ka mauka mila 😄"
+
+---
+
+⭐ **If you like my work, don’t forget to star my repositories!**
