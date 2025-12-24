@@ -66,7 +66,7 @@
 ## 🤝 Connect With Me  
 
 - GitHub: [https://github.com/Nikeshh01](https://github.com/Nikeshh01)  
-- LinkedIn: *(Add your LinkedIn link here)*  
+- LinkedIn: *www.linkedin.com/in/nikesh-patel22*  
 
 ---
 
