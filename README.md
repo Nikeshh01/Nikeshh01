@@ -17,13 +17,15 @@
 ## 🛠️ Tech Stack  
 
 ### 👨‍💻 Programming Languages  
-- Java  <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/e4791970-6def-4105-ba70-d4961ca21c7b" />
+- Java
+-  <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/e4791970-6def-4105-ba70-d4961ca21c7b" />
 
 - Java Script  
 - SQL  
 
 ### 🌐 Backend & Frameworks  
-- Spring Boot  <img width="137" height="28" alt="image" src="https://github.com/user-attachments/assets/c32a7242-85f2-4f5a-a075-2e9c07418380" />
+- Spring Boot
+-  <img width="137" height="28" alt="image" src="https://github.com/user-attachments/assets/c32a7242-85f2-4f5a-a075-2e9c07418380" />
 
 - JDBC  
 - Hibernate (Basics)  
