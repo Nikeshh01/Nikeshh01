@@ -14,7 +14,8 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack 
+----------------------
 
 ### 👨‍💻 Programming Languages  
 -  <img width="57" height="28" alt="image" src="https://github.com/user-attachments/assets/e4791970-6def-4105-ba70-d4961ca21c7b" />
@@ -72,7 +73,7 @@
 
 ## ⭐ Fun Fact  
 
-> "Code likhne me error aaye to samjho seekhne ka mauka mila 😄"
+> "Code likhne me error aaye to samjho seekhne ka mauka mila 😄" 
 
 ---
 
